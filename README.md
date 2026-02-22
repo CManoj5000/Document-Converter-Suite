@@ -1,7 +1,7 @@
 # Document-Converter-Suite
 
-##Features
-###File Conversion
+## Features
+### File Conversion
 
 PDF to Word (.docx)
 
@@ -15,13 +15,13 @@ Excel to PDF
 
 PowerPoint to PDF
 
-###PDF Tools
+### PDF Tools
 
 Merge Multiple PDFs
 
 Split PDF into Separate Pages
 
-###Tech Stack
+### Tech Stack
 
 Frontend Design: Canva (UI Design)
 
