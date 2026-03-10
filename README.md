@@ -10,7 +10,6 @@ S.Mahesh Naik
 
 C.Manoj Kumar
 
-
 ## Documentation
 
 I built the Document Converter Suite because I was frustrated with "free" online tools that were either cluttered with ads or, more importantly, required me to upload sensitive files to their servers.
